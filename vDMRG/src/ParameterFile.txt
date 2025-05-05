@@ -1,0 +1,15 @@
+# File containing all the parameters used in the code
+# Parameters usually fixed throughout
+20     # 0: No of spins
+6       # 1: Fock states in cavity
+60      # 2: Bond dimension
+70.e9   # 3: Cavity frequency (wc)
+1e-4    # 4: Cavity decay rate (kappa) in units of wc
+6.25e-6 # 5: Dephasing rate (gamma_p)
+1.25e-5 # 6: Spin decay rate (gamma_h)
+40.e6   # 7: Collective spin coupling
+
+# Parameters which were changed
+30.e6   # 8: FWHM of spin distribution 
+2.0     # 9: Squeezing parameter
+1       #10: Minimum Fock state being used in initial state
