@@ -12,7 +12,7 @@ This folder contains C++ and Python source codes and simulation data used for th
 
 #### Contents:
 - `src/`: C++ source code files for the vDMRG simulation  
-- `data/`: Output data files generated from simulations  
+- `data.zip`: Output data files generated from simulations  
 - `post-processing/`: Python scripts for post-processing and plotting  
 - `README.txt`: Specific instructions and notes about vDMRG codes and parameters
 
