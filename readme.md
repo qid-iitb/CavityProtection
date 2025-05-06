@@ -54,6 +54,8 @@ This folder contains **Mathematica notebooks and data** related to the **semicla
 - `Semiclassical_Dynamics.nb`: Main notebook to reproduce semiclassical data.  
 - `data/`: Contains pre-generated data for analysis
 
+> Note: The data generated from the code may differ from the ones in data file, as the spin distribution changes every time. 
+
 ---
 
 ## Notes
